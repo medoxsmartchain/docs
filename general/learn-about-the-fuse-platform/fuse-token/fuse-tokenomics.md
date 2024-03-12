@@ -1,17 +1,17 @@
-# NRK Tokenomics
+# MDC Tokenomics
 
-Currently, the NRK token supply is set to follow a **mildly inflationary model**. 
+Currently, the MDC token supply is set to follow a **mildly inflationary model**. 
 
-With each new block created every 5 seconds on Nordek, the validator who creates it, and the delegators who staked with them, receive the block rewards in newly issued NRK tokens. This is designed to secure the network's [consensus mechanism](https://docs.nordekscan.com/general/fuse-network-blockchain/fuse-consensus). 
+With each new block created every 5 seconds on MEDOX, the validator who creates it, and the delegators who staked with them, receive the block rewards in newly issued MDC tokens. This is designed to secure the network's [consensus mechanism](https://docs.mdcscan.com/general/fuse-network-blockchain/fuse-consensus). 
 
-The reward amount per block is currently set such that every year, the NRK total supply increases by approximately 5%.
+The reward amount per block is currently set such that every year, the MDC total supply increases by approximately 5%.
 
-The main reason for choosing an inflationary model at the early development stage was to ensure a certain predictability of the flow of revenue for network validators and delegators. If they had to exclusively rely on transaction fees as the reward for staking NRK and validating, it would be harder for them to predict their future returns, as transaction activity on the network can fluctuate a lot. The relative predictability of validator revenue is an important assumption behind the blockchain consensus theory on which the Nordek consensus mechanism is based.  
+The main reason for choosing an inflationary model at the early development stage was to ensure a certain predictability of the flow of revenue for network validators and delegators. If they had to exclusively rely on transaction fees as the reward for staking MDC and validating, it would be harder for them to predict their future returns, as transaction activity on the network can fluctuate a lot. The relative predictability of validator revenue is an important assumption behind the blockchain consensus theory on which the MEDOX consensus mechanism is based.  
 
-Having substantial block rewards also makes it possible to keep transaction fees on the network low, facilitating adoption of Nordek.
+Having substantial block rewards also makes it possible to keep transaction fees on the network low, facilitating adoption of MEDOX.
 
 ### Potential inflation reduction  
 
-A Nordek Improvement Proposal aimed at reducing the NRK inflation  is currently under discussion by the community. If adopted by the validators, it will result in an annual inflation rate of 2% for third year of the network's existence and a fixed amounts of tokens issued in the subsequent years.
+A MEDOX Improvement Proposal aimed at reducing the MDC inflation  is currently under discussion by the community. If adopted by the validators, it will result in an annual inflation rate of 2% for third year of the network's existence and a fixed amounts of tokens issued in the subsequent years.
 
-You can find the text of the proposal and the discussion [here](https://forum.nordekscan.com/t/changing-fuse-network-inflation-rate/102).   
+You can find the text of the proposal and the discussion [here](https://forum.mdcscan.com/t/changing-fuse-network-inflation-rate/102).   

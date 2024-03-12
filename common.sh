@@ -1,2 +1,2 @@
-cd /root/suncex/docs/
-cp -avr /root/suncex/docs /home/suncex_docs && chcon -Rt httpd_sys_content_t /home/suncex_docs
+cd /root/medox/docs/
+cp -avr /root/medox/docs /home/medox_docs && chcon -Rt httpd_sys_content_t /home/medox_docs

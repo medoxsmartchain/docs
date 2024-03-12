@@ -6,13 +6,13 @@ description: Integrate your product to your community and token trough the Studi
 
 ## fuse-studio-backend v0.1.0
 
-The Nordek Studio REST API for accessing the data and the services of the Nordek network in a simple way. You can use this API to query and interact with the objects of the Nordek network such as: Communities, Tokens, Bridges and Entities.
+The MEDOX Studio REST API for accessing the data and the services of the MEDOX network in a simple way. You can use this API to query and interact with the objects of the MEDOX network such as: Communities, Tokens, Bridges and Entities.
 
 ## Bridge
 
 ### Fetch bridge
 
-The token bridge connects the Ethereum and Nordek network
+The token bridge connects the Ethereum and MEDOX network
 
 ```text
 GET /bridges/:homeTokenAddress
@@ -22,17 +22,17 @@ GET /bridges/:homeTokenAddress
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| homeTokenAddress | `String` | Home \(Nordek\) token address |
+| homeTokenAddress | `String` | Home \(MEDOX\) token address |
 
 #### Success 200
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| homeTokenAddress | `String` | Token address on the Nordek network |
+| homeTokenAddress | `String` | Token address on the MEDOX network |
 | foreignTokenAddress | `String` | Token address on the Ethereum network |
 | foreignBridgeAddress | `String` | Bridge address on the Ethereum network |
-| homeBridgeAddress | `String` | Bridge address on the Nordek network |
-| homeBridgeBlockNumber | `Number` | Bridge creation block number on the Nordek network |
+| homeBridgeAddress | `String` | Bridge address on the MEDOX network |
+| homeBridgeBlockNumber | `Number` | Bridge creation block number on the MEDOX network |
 | foreignBridgeBlockNumber | `Number` | Bridge creation block number on the Ethereum network |
 
 ## Community
@@ -70,7 +70,7 @@ POST /communities/:communityAddress
 
 ### Fetch community
 
-Community is a set of contracts and services. Members of the community are users of the Nordek network. The community is configured via the plugins.
+Community is a set of contracts and services. Members of the community are users of the MEDOX network. The community is configured via the plugins.
 
 ```text
 GET /communities/:communityAddress
@@ -86,10 +86,10 @@ GET /communities/:communityAddress
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| communityAddress | `String` | Address of the community on the Nordek network |
-| homeTokenAddress | `String` | Address of the community token on the Nordek network |
+| communityAddress | `String` | Address of the community on the MEDOX network |
+| homeTokenAddress | `String` | Address of the community token on the MEDOX network |
 | foreignTokenAddress | `String` | Address of the community token on the Ethereum network |
-| homeBridgeAddress | `String` | Address of the community bridge on the Nordek network |
+| homeBridgeAddress | `String` | Address of the community bridge on the MEDOX network |
 | foreignBridgeAddress | `String` | Address of the community bridge on the Ethereum network |
 | isClosed | `Boolean` | Is the community is closed or open. Closed community requires an approve of community admin to join. |
 | plugins | `Object` | Defines the community plugins. |
@@ -126,7 +126,7 @@ GET /entities/:communityAddress
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| communityAddress | `String` | Community address of the Nordek network |
+| communityAddress | `String` | Community address of the MEDOX network |
 | page | `Number` | Page number for pagination |
 | withMetadata | `Boolean` | Get entities with entity's metadata |
 | search | `String` | Entity's name for a search by name |
@@ -139,7 +139,7 @@ GET /entities/:communityAddress
 
 ### Fetch entity
 
-Entity is an account on the Nordek network. It can have variety of roles like user, admin, business, or custom defined role.
+Entity is an account on the MEDOX network. It can have variety of roles like user, admin, business, or custom defined role.
 
 ```text
 GET /entities/:communityAddress/:account
@@ -156,7 +156,7 @@ GET /entities/:communityAddress/:account
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| account | `String` | Entity's account on Nordek network |
+| account | `String` | Entity's account on MEDOX network |
 | communityAddress | `String` | Community address of the entity |
 | uri | `String` | IPFS URI points to entity's metadata |
 | name | `String` | Entity's name |

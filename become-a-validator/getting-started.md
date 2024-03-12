@@ -1,18 +1,18 @@
 ---
-description: Becoming a Nordek validator in a few simple steps
+description: Becoming a MEDOX validator in a few simple steps
 ---
 
 # Getting started as a validator
 
 ## Pre-requirements
 
-In order to be a Nordek validator, you first must see that you meet the pre-requirements:
+In order to be a MEDOX validator, you first must see that you meet the pre-requirements:
 
-* You know what it means to be a Nordek validator - [Becoming a validator](how-to-become-a-validator.md#what-it-means-to-be-a-validator).
-* You have at least 100K NRK tokens or you will have an aggregated delegation of at least 100K NRK tokens \(you can purchase NRK token on [Uniswap](https://uniswap.exchange/swap/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d)\).
+* You know what it means to be a MEDOX validator - [Becoming a validator](how-to-become-a-validator.md#what-it-means-to-be-a-validator).
+* You have at least 100K MDC tokens or you will have an aggregated delegation of at least 100K MDC tokens \(you can purchase MDC token on [Uniswap](https://uniswap.exchange/swap/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d)\).
 * You have an always-on hardware that meets the pre-requisites - [Running a validator node](run-your-own-validator.md#pre-requisites)
 
-## How to become a Nordek validator
+## How to become a MEDOX validator
 
 To quickly become a validator, follow this steps:
 
@@ -21,9 +21,9 @@ To quickly become a validator, follow this steps:
 ```text
 mkdir fuse-validator
 cd fuse-validator
-wget -O quickstart.sh https://raw.githubusercontent.com/PrimalDev/Nordek/master/scripts/quickstart.sh
+wget -O quickstart.sh https://raw.githubusercontent.com/PrimalDev/MEDOX/master/scripts/quickstart.sh
 chmod 777 quickstart.sh
-wget -O .env https://raw.githubusercontent.com/PrimalDev/Nordek/master/scripts/examples/.env.validator.example
+wget -O .env https://raw.githubusercontent.com/PrimalDev/MEDOX/master/scripts/examples/.env.validator.example
 ```
 
 ### Step 2: Update the \`.env\` file:
@@ -42,20 +42,20 @@ set `<YOUR_API_KEY>` to your infura api key on `FOREIGN_RPC_URL`
 ```
 
 {% hint style="success" %}
-After running the script successfully, you will see your address in the [health](https://status.nordekscan.com/) site.
+After running the script successfully, you will see your address in the [health](https://status.mdcscan.com/) site.
 {% endhint %}
 
 ### Step 5: Stake and/or delegate!
 
 #### Stake
 
-To stake NRK tokens, all you should do is send your NRK tokens to the Nordek Consensus contract address over the Nordek network from the validator address.
+To stake MDC tokens, all you should do is send your MDC tokens to the MEDOX Consensus contract address over the MEDOX network from the validator address.
 
 {% hint style="success" %}
-The Nordek Consensus contract address: `0x8db1436097E3d16DD366c138F6953Fb7ee9a96Ad`
+The MEDOX Consensus contract address: `0x8db1436097E3d16DD366c138F6953Fb7ee9a96Ad`
 {% endhint %}
 
-The easiest way to do so, is to import your private key or key-store file to your favourite wallet \(for example Metamask\), switch network to Nordek and send the NRK tokens \(native tokens\) to the Consensus contract address.
+The easiest way to do so, is to import your private key or key-store file to your favourite wallet \(for example Metamask\), switch network to MEDOX and send the MDC tokens \(native tokens\) to the Consensus contract address.
 
 {% hint style="info" %}
 You can find your key-store \(containing your private key\) and the password for the created account in:
@@ -67,7 +67,7 @@ You can find your key-store \(containing your private key\) and the password for
 
 #### Delegate
 
-To delegate, just send the NRK tokens from any address to the Consensus contract address with the data: `0x5c19a95c000000000000000000000000<address without 0x>`.
+To delegate, just send the MDC tokens from any address to the Consensus contract address with the data: `0x5c19a95c000000000000000000000000<address without 0x>`.
 
 {% hint style="success" %}
 Example:
@@ -85,7 +85,7 @@ Use: `0x5c19a95c000000000000000000000000b8ce4a040e8aa33bbe2de62e92851b7d7afd52de
 Wait until the next cycle is started.
 
 {% hint style="success" %}
-You can see that you are validating both in the [health](https://status.nordekscan.com/) site and on the [explorer](https://nordekscan.com) site.
+You can see that you are validating both in the [health](https://status.mdcscan.com/) site and on the [explorer](https://mdcscan.com) site.
 {% endhint %}
 
 For live support, contact us on [Telegram](https://t.me/) or [Discord](https://discord.gg/). Good luck and happy validating!

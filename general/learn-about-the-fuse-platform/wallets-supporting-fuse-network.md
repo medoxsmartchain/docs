@@ -1,3 +1,3 @@
-# Wallets supporting Nordek
+# Wallets supporting MEDOX
 
-The following wallets currently support the Nordek blockchain.
+The following wallets currently support the MEDOX blockchain.

@@ -1,20 +1,20 @@
-# How to add Nordek to MEW
+# How to add MEDOX to MEW
 
-As of MEW version 5.6.6-hotfix1 NRK has been added as a supported network in MEW. You can manage your native NRK with all
+As of MEW version 5.6.6-hotfix1 MDC has been added as a supported network in MEW. You can manage your native MDC with all
 the creature comforts MEW offers, it also allows hardware wallet support. 
 
-1. To set up Nordek on MEW click on "change" under network section at the top right corner, to change the current 
+1. To set up MEDOX on MEW click on "change" under network section at the top right corner, to change the current 
 network.
 
 ![](.gitbook/assets/MEW_1.png)
 
-2. A popup will open. Scroll down the list until you find "NRK".
+2. A popup will open. Scroll down the list until you find "MDC".
 
 ![](.gitbook/assets/MEW_2.png)
 
-3. Click "Nordek" text/button
+3. Click "MEDOX" text/button
 
-4. Now you're connected to Nordek and can use it's full features and products.
+4. Now you're connected to MEDOX and can use it's full features and products.
 
 For more info about using MEW please refer to their documentation [here](https://kb.myetherwallet.com/).
 

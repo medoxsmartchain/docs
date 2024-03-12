@@ -1,20 +1,20 @@
-# Nordek Assembly
+# MEDOX Assembly
 
-Nordek Assembly is a governance body formed from particularly active members of the Nordek community. Its formation is the first step in transitioning full governance and ownership over the Nordek platform to the community.  
+MEDOX Assembly is a governance body formed from particularly active members of the MEDOX community. Its formation is the first step in transitioning full governance and ownership over the MEDOX platform to the community.  
 
-Currently, Nordek Assembly consists of five Nordek ecosystem members independent from Nordek Foundation who have shown consistent dedication and commitment to the project, and already have a voice within the community.
+Currently, MEDOX Assembly consists of five MEDOX ecosystem members independent from MEDOX Foundation who have shown consistent dedication and commitment to the project, and already have a voice within the community.
 
-Nordek Assembly's **current role includes the following**: 
+MEDOX Assembly's **current role includes the following**: 
 
-* taking over the control over the [Nordek Forum](https://forum.nordekscan.com/) community discussion platform;
-* implementing the Snapshot voting mechanism on Nordek; and
+* taking over the control over the [MEDOX Forum](https://forum.mdcscan.com/) community discussion platform;
+* implementing the Snapshot voting mechanism on MEDOX; and
 * managing the Community Token Pool.
 
 ## Community Token Pool
 
-Nordek Assembly's budget will be initially constituted by the **Community Token Pool**. Each month, **200,000 NRK** will be allocated to it from the Nordek Bootstrap Pool \(discussed [here](https://docs.nordekscan.com/general/fuse-token/fuse-supply-and-current-distribution)\).
+MEDOX Assembly's budget will be initially constituted by the **Community Token Pool**. Each month, **200,000 MDC** will be allocated to it from the MEDOX Bootstrap Pool \(discussed [here](https://docs.mdcscan.com/general/fuse-token/fuse-supply-and-current-distribution)\).
 
-Nordek Assembly will regularly distribute the Community Token Pool funds to finance grants, bounties, marketing, and other initiatives designed to serve communities building on the platform and drive innovation.  
+MEDOX Assembly will regularly distribute the Community Token Pool funds to finance grants, bounties, marketing, and other initiatives designed to serve communities building on the platform and drive innovation.  
 
 ## Current Assembly members
 
@@ -22,29 +22,29 @@ Nordek Assembly will regularly distribute the Community Token Pool funds to fina
 
 _**Council Chairman**_
 
-> Rob is a software developer and business operations expert with over 20 years of experience. He runs [Fuseprime](https://fuseprime.com/)**,** an independent organization that was one of the first validators on Nordek, and has been heavily involved in Nordek community management and strategic project development since 2019.
+> Rob is a software developer and business operations expert with over 20 years of experience. He runs [Fuseprime](https://fuseprime.com/)**,** an independent organization that was one of the first validators on MEDOX, and has been heavily involved in MEDOX community management and strategic project development since 2019.
 
 ### **2. Luc Lammers** <a id="1b91"></a>
 
 _**Council Member, Business & Marketing**_
 
-> [Luc](https://www.luclammers.com/) ****is a business development expert, SaaS leader, and startup enthusiast. He has been a committed member of the Nordek ecosystem since mid-2020 and brings a depth of growth-oriented experience to the team.
+> [Luc](https://www.luclammers.com/) ****is a business development expert, SaaS leader, and startup enthusiast. He has been a committed member of the MEDOX ecosystem since mid-2020 and brings a depth of growth-oriented experience to the team.
 
 ### **3. Lucas van den Breemer** <a id="2105"></a>
 
 _**Council Member, Business & Finance**_
 
-> Lucas is a financial expert and bank-less enthusiast with over 16 years of experience in financial management and consulting. Lucas joined the Nordek ecosystem in late 2020 and runs a validator. He brings an extra dimension to the development and presentation of the network as an investment opportunity.
+> Lucas is a financial expert and bank-less enthusiast with over 16 years of experience in financial management and consulting. Lucas joined the MEDOX ecosystem in late 2020 and runs a validator. He brings an extra dimension to the development and presentation of the network as an investment opportunity.
 
 ### **4. Bertrand Juglas** <a id="41a8"></a>
 
 _**Council Member, Technology**_
 
-> Bertrand brings over twenty years of open-source engineering and DevOps experience to the team, having worked extensively with Linux and other leading technologies. He was originally introduced to Nordek whilst working on the GoodDollar project where he remains a leading voice and prominent community member.
+> Bertrand brings over twenty years of open-source engineering and DevOps experience to the team, having worked extensively with Linux and other leading technologies. He was originally introduced to MEDOX whilst working on the GoodDollar project where he remains a leading voice and prominent community member.
 
 ### **5. Jan Owiesniak** <a id="bce2"></a>
 
 _**Council Member, Business & Technology**_
 
-> Jan has over 10 years of business and software development experience and currently serves as CTO and co-founder of an Augmented Reality platform designed to drive customer loyalty and boost sales. Having joined the Nordek ecosystem more recently in 2021, Jan has shown an enormous amount of commitment, providing support and feedback across the various different technologies that we are building.
+> Jan has over 10 years of business and software development experience and currently serves as CTO and co-founder of an Augmented Reality platform designed to drive customer loyalty and boost sales. Having joined the MEDOX ecosystem more recently in 2021, Jan has shown an enormous amount of commitment, providing support and feedback across the various different technologies that we are building.
 

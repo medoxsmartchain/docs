@@ -1,6 +1,6 @@
 ---
 description: >-
-  Build of The Graph, we expose a GraphQL API to access the data on the Nordek
+  Build of The Graph, we expose a GraphQL API to access the data on the MEDOX
   Network
 ---
 
@@ -8,14 +8,14 @@ description: >-
 
 ## Deploying your own subgraph
 
-TheGraph, a decentralized protocol for indexing and querying chain data, supports the Nordek Netork.Go to [https://thegraph.com/](https://thegraph.com/) to sign up and create your subgraph.
+TheGraph, a decentralized protocol for indexing and querying chain data, supports the MEDOX Netork.Go to [https://thegraph.com/](https://thegraph.com/) to sign up and create your subgraph.
 
 * Follow the instructions for how to deploy the subgraph
 * in `subgraph.yaml`, the network name should be `fuse`
 
 ## Available Subgraphs
 
-Subgraphs that builded and maintained by the Nordek team, deployed on Nordek internal infrastructure or The Graph hosted service.
+Subgraphs that builded and maintained by the MEDOX team, deployed on MEDOX internal infrastructure or The Graph hosted service.
 
 ### Fuseswap
 
@@ -23,31 +23,31 @@ Historic price and stats of the FuseSwap DEX
 
 On TheGraph: [https://thegraph.com/explorer/subgraph/fuseio/fuseswap](https://thegraph.com/explorer/subgraph/fuseio/fuseswap)
 
-on Nordek graph-node:  [https://thegraph.nordekscan.com/subgraphs/name/faktchain/fuseswap](https://thegraph.nordekscan.com/subgraphs/name/faktchain/fuseswap)
+on MEDOX graph-node:  [https://thegraph.mdcscan.com/subgraphs/name/faktchain/fuseswap](https://thegraph.mdcscan.com/subgraphs/name/faktchain/fuseswap)
 
-### Nordek Consensus
+### MEDOX Consensus
 
 on TheGraph: [https://thegraph.com/explorer/subgraph/fuseio/fuse-consensus](https://thegraph.com/explorer/subgraph/fuseio/fuse-consensus)
 
-on Nordek graph-node: [https://thegraph.nordekscan.com/subgraphs/name/faktchain/fuse-consensus/graphql](https://thegraph.nordekscan.com/subgraphs/name/faktchain/fuse-consensus/graphql)
+on MEDOX graph-node: [https://thegraph.mdcscan.com/subgraphs/name/faktchain/fuse-consensus/graphql](https://thegraph.mdcscan.com/subgraphs/name/faktchain/fuse-consensus/graphql)
 
-### Nordek Blocks
+### MEDOX Blocks
 
-Block data of the Nordek
+Block data of the MEDOX
 
-on Nordek graph-node: [https://thegraph.nordekscan.com/subgraphs/name/faktchain/fuse-blocks/graphql](https://thegraph.nordekscan.com/subgraphs/name/faktchain/fuse-blocks/graphql)
+on MEDOX graph-node: [https://thegraph.mdcscan.com/subgraphs/name/faktchain/fuse-blocks/graphql](https://thegraph.mdcscan.com/subgraphs/name/faktchain/fuse-blocks/graphql)
 
-### Nordek Entities
+### MEDOX Entities
 
-Businesses and other entities on the Nordek
+Businesses and other entities on the MEDOX
 
 One TheGraph: [https://thegraph.com/explorer/subgraph/fuseio/fuse-entities](https://thegraph.com/explorer/subgraph/fuseio/fuse-entities)
 
-on Nordek graph-node:  [https://thegraph.nordekscan.com/subgraphs/name/faktchain/fuse-entities/graphql](https://thegraph.nordekscan.com/subgraphs/name/faktchain/fuse-entities/graphql)
+on MEDOX graph-node:  [https://thegraph.mdcscan.com/subgraphs/name/faktchain/fuse-entities/graphql](https://thegraph.mdcscan.com/subgraphs/name/faktchain/fuse-entities/graphql)
 
-### Nordek Bridge
+### MEDOX Bridge
 
-List of tokens bridged to the Nordek network.
+List of tokens bridged to the MEDOX network.
 
-on Nordek graph-node: [https://thegraph.nordekscan.com/subgraphs/name/faktchain/fuse-ethereum-bridge/graphql](https://thegraph.nordekscan.com/subgraphs/name/faktchain/fuse-ethereum-bridge/graphql)
+on MEDOX graph-node: [https://thegraph.mdcscan.com/subgraphs/name/faktchain/fuse-ethereum-bridge/graphql](https://thegraph.mdcscan.com/subgraphs/name/faktchain/fuse-ethereum-bridge/graphql)
 

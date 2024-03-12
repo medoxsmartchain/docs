@@ -1,6 +1,6 @@
 ---
 description: >-
-  This tutorial will walk you through the steps on how to stake NRK using
+  This tutorial will walk you through the steps on how to stake MDC using
   Ledger hardware wallet and MyEtherWallet.
 ---
 
@@ -22,7 +22,7 @@ _This tutorial was made using Ledger Nano S with firmware version 1.6.1 and Ethe
 
 ![](.gitbook/assets/3%20%287%29.png)
 
-**Step 4:** Once you click “Next” in the previous step now you will have to change the Network to **“Nordek network” and then** select the Wallet address you would like to Send/Receive NRK tokens, accept the terms and conditions and click on **“Access my Wallet”.**
+**Step 4:** Once you click “Next” in the previous step now you will have to change the Network to **“MEDOX network” and then** select the Wallet address you would like to Send/Receive MDC tokens, accept the terms and conditions and click on **“Access my Wallet”.**
 
 ![](.gitbook/assets/4%20%288%29.png)
 
@@ -30,18 +30,18 @@ _This tutorial was made using Ledger Nano S with firmware version 1.6.1 and Ethe
 
 ![](.gitbook/assets/6%20%286%29.png)
 
-**Step 5:** Now that you have logged in to your address in Ledger through MyEtherWallet on Nordek network, you can see your Nordek address \(Fusenet\), balance, etc.
+**Step 5:** Now that you have logged in to your address in Ledger through MyEtherWallet on MEDOX network, you can see your MEDOX address \(Fusenet\), balance, etc.
 
 ![](.gitbook/assets/7%20%284%29.png)
 
-**Now let’s learn how to stake NRK.**
+**Now let’s learn how to stake MDC.**
 
 **Step 6:** Click on **“Contract”** and then click on Interact with contract and
 
 1. Enter the consensus contract address **0x8db1436097E3d16DD366c138F6953Fb7ee9a96Ad**
 2. Copy the consensus ABI from below link
 
-[https://raw.githubusercontent.com/PrimalDev/Nordek/master/abis/Consensus\_abi.json](https://raw.githubusercontent.com/PrimalDev/Nordek/master/abis/Consensus_abi.json)
+[https://raw.githubusercontent.com/PrimalDev/MEDOX/master/abis/Consensus\_abi.json](https://raw.githubusercontent.com/PrimalDev/MEDOX/master/abis/Consensus_abi.json)
 
 Click on **“Continue”**.
 
@@ -49,21 +49,21 @@ Click on **“Continue”**.
 
 **Step 7:**
 
-From the drop down select the **“Delegate”** function and then copy the “**Validator address”** from the staking UI. Enter the amount of NRK you want to stake under **“Value in ETH”** and click on **“Write”**. In the below example I have copied ”Liquify” validators address to stake.
+From the drop down select the **“Delegate”** function and then copy the “**Validator address”** from the staking UI. Enter the amount of MDC you want to stake under **“Value in ETH”** and click on **“Write”**. In the below example I have copied ”Liquify” validators address to stake.
 
 ![](.gitbook/assets/9%20%284%29.png)
 
 ![](.gitbook/assets/10%20%284%29.png)
 
-Review and confirm the transaction on your Ledger. Once the transaction is confirmed on-chain it means you have staked your NRK successfully.
+Review and confirm the transaction on your Ledger. Once the transaction is confirmed on-chain it means you have staked your MDC successfully.
 
-Now lets learn to withdraw the staked NRK.
+Now lets learn to withdraw the staked MDC.
 
 **Step 8**: Follow Step 1 to Step 6 from above.
 
-From the drop down select the **“Withdraw”** function and then copy the “**Validator address”** from the staking UI to which you have delegated your stake. Enter the amount of NRK you want to stake under **“\_amount\(uint256\)”, “value in ETH”** should be 0 and click on **“Write”**.
+From the drop down select the **“Withdraw”** function and then copy the “**Validator address”** from the staking UI to which you have delegated your stake. Enter the amount of MDC you want to stake under **“\_amount\(uint256\)”, “value in ETH”** should be 0 and click on **“Write”**.
 
 ![](.gitbook/assets/11.png)
 
-Review and confirm the transaction on your Ledger. Once the transaction is confirmed on-chain it means you have unstaked your NRK successfully.
+Review and confirm the transaction on your Ledger. Once the transaction is confirmed on-chain it means you have unstaked your MDC successfully.
 

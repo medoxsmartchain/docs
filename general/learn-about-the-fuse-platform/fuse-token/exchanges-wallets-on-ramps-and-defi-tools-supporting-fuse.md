@@ -1,4 +1,4 @@
-# Exchanges, Wallets, On-Ramps and DeFi Tools Supporting NRK
+# Exchanges, Wallets, On-Ramps and DeFi Tools Supporting MDC
 
 ## Exchanges
 
@@ -10,7 +10,7 @@
 
 [Liquid Global](https://liquid.com)
 
-The best data on the active NRK trading pairs is available [here](https://www.coingecko.com/en/coins/fuse#markets).
+The best data on the active MDC trading pairs is available [here](https://www.coingecko.com/en/coins/fuse#markets).
 
 ### DEXes
 
@@ -34,7 +34,7 @@ DoDo
 
 ## Wallets
 
-[Nordek Cash](https://fuse.c)
+[MEDOX Cash](https://fuse.c)
 
 Metamask
 
@@ -50,10 +50,10 @@ Trust Wallet (Binance Smart Chain)
 
 ## DeFi Tools
 
-[Nordek Staking](exchanges-wallets-on-ramps-and-defi-tools-supporting-fuse.md#exchanges)
+[MEDOX Staking](exchanges-wallets-on-ramps-and-defi-tools-supporting-fuse.md#exchanges)
 
-[Nordek Rewards](https://rewards.nordekscan.com)
+[MEDOX Rewards](https://rewards.mdcscan.com)
 
-[Nordek Lending Network](https://app.ola.finance/networks/0x26a562B713648d7F3D1E1031DCc0860A4F3Fa340/markets)
+[MEDOX Lending Network](https://app.ola.finance/networks/0x26a562B713648d7F3D1E1031DCc0860A4F3Fa340/markets)
 
 [Staking Rewards](https://www.stakingrewards.com/)

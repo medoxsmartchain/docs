@@ -1,6 +1,6 @@
 # Metamask+ Ledger live tutorial
 
-This tutorial will walk you through the steps needed to connect your Ledger to Metamask and use it to transact on Nordek after the latest Metamask and Ledger live update.
+This tutorial will walk you through the steps needed to connect your Ledger to Metamask and use it to transact on MEDOX after the latest Metamask and Ledger live update.
 
 Ledger live 2.26.1
 
@@ -46,7 +46,7 @@ Once the device bridge is opened, go back to Metamask and select the Account \(a
 
 ![](../.gitbook/assets/6%20%2811%29.png)
 
-You will be logged in to the address you selected and now you can change the network to “Nordek network” and perform the transactions on Nordek network through your Ledger device.
+You will be logged in to the address you selected and now you can change the network to “MEDOX network” and perform the transactions on MEDOX network through your Ledger device.
 
-Note: To learn how to add Nordek RPC follow [this link.](https://docs.nordekscan.com/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask)
+Note: To learn how to add MEDOX RPC follow [this link.](https://docs.mdcscan.com/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask)
 

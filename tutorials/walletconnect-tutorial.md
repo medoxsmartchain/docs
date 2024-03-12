@@ -1,13 +1,13 @@
 # How to use WalletConnect on fuse.cash and add liquidity on Fuseswap
 
-We will learn how to connect Nordek cash wallet to various fuse DApps through WalletConnect feature and add liquidity to Fuseswap through Nordek cash wallet.
+We will learn how to connect MEDOX cash wallet to various fuse DApps through WalletConnect feature and add liquidity to Fuseswap through MEDOX cash wallet.
 
 Mobile OS- Android  
 App version used- 0.1.14.144
 
 **Step 1:**
 
-Open your Nordek cash wallet on your phone and the interface shown will be similar to the one shown in the image below.
+Open your MEDOX cash wallet on your phone and the interface shown will be similar to the one shown in the image below.
 
 ![](../.gitbook/assets/0%20%283%29.jpeg)
 
@@ -34,17 +34,17 @@ You have successfully connected your fuse cash wallet with fuseswap dex through 
 
 Now we will continue and add liquidity on Fuseswap.
 
-Now click on “Pool” and then on “Add liquidity”. Select NRK as your first token and fUSD as the second token from the dropdown. Enter the amount of NRK you want to provide the liquidity for and the corresponding amount of fUSD that should be added will automatically show up according to the price of NRK.  
+Now click on “Pool” and then on “Add liquidity”. Select MDC as your first token and fUSD as the second token from the dropdown. Enter the amount of MDC you want to provide the liquidity for and the corresponding amount of fUSD that should be added will automatically show up according to the price of MDC.  
 
 ![](../.gitbook/assets/5%20%2813%29.png)
 
-You can also see your share of the liquidity pool based on the amount of NRK you want to provide liquidity for. 
+You can also see your share of the liquidity pool based on the amount of MDC you want to provide liquidity for. 
 
 Click on “Approve fUSD” and confirm the transaction through your wallet. 
 
 \(Note: If this is the first time you are providing liquidity on Fuseswap using the above pairs you will have to approve the spend transaction.\) 
 
-Once the transaction is confirmed on-chain, click on “Supply” and approve the transaction. You will receive the liquidity pool tokens on your wallet which can be checked under tokens through [www.nordekscan.com](http://www.nordekscan.com/) on your wallet address.
+Once the transaction is confirmed on-chain, click on “Supply” and approve the transaction. You will receive the liquidity pool tokens on your wallet which can be checked under tokens through [www.mdcscan.com](http://www.mdcscan.com/) on your wallet address.
 
 Navigating to **“Pool”** on Fuseswap will also show you list of token pairs with statistics for which you have provided liquidity and other options like add/remove liquidity for that particular token pair as shown below.  
 

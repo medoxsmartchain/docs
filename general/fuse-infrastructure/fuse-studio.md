@@ -1,23 +1,23 @@
-# Nordek Studio
+# MEDOX Studio
 
 
 
-![Nordek Studio architecture](../../.gitbook/assets/image%20%283%29.png)
+![MEDOX Studio architecture](../../.gitbook/assets/image%20%283%29.png)
 
 ## Backend Infrastructure
 
 The backend is composed of the following independent services
 
 * Studio API Backend has two purposes. Provides an API for fast and convenient querying of the blockchain data for the Studio DApp. Transmits heavy and complicated transaction flows on behalf of the user.
-* Nordek-funder service used to fund community members and wallet users on the Nordek blockchain.
-* Nordek IPFS proxy used for fast fetching and storing data in IPFS.
+* MEDOX-funder service used to fund community members and wallet users on the MEDOX blockchain.
+* MEDOX IPFS proxy used for fast fetching and storing data in IPFS.
 
 ## Contracts
 
-Nordek studio is designed to launch DeFi communities on the Nordek network. The community contract binds together most of the services and features of the Studio. Among other things it consists of:
+MEDOX studio is designed to launch DeFi communities on the MEDOX network. The community contract binds together most of the services and features of the Studio. Among other things it consists of:
 
 * Entities List contract to store community members and their roles
-* Community TL20 tokens on Nordek network with transfer rules
+* Community TL20 tokens on MEDOX network with transfer rules
 * TL20 tokens on Ethereum. This is the token that the user issues as part of the community deployment process
 * [Multitoken bridge](https://github.com/fuseio/bridge-contracts) - to minimize friction and costs we extended the POA TL20-TL20 bridge contract to many-TL20-to-many contract.
 

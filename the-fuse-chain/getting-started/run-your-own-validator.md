@@ -68,9 +68,9 @@ The script will make sure you have everything that is necessary, create a new ac
 The script can be called multiple times without problems, so it checks what is already there and will at least update all service processes.
 
 ```text
-$ wget -O quickstart.sh https://raw.githubusercontent.com/PrimalDev/Nordek/master/scripts/quickstart.sh
+$ wget -O quickstart.sh https://raw.githubusercontent.com/PrimalDev/MEDOX/master/scripts/quickstart.sh
 $ chmod 777 quickstart.sh
-$ wget -O .env https://raw.githubusercontent.com/PrimalDev/Nordek/master/scripts/examples/.env.<ROLE>.example
+$ wget -O .env https://raw.githubusercontent.com/PrimalDev/MEDOX/master/scripts/examples/.env.<ROLE>.example
 $ ./quickstart.sh
 ```
 
@@ -314,7 +314,7 @@ $ docker run \
 
 _**Note**_
 
-All roles should also run a [Ethereum Network Intelligence API](https://github.com/fuseio/eth-net-intelligence-api) app as well, in order to connect themselves as part of the network and be viewed by the [health](https://status.nordekscan.com/) service
+All roles should also run a [Ethereum Network Intelligence API](https://github.com/fuseio/eth-net-intelligence-api) app as well, in order to connect themselves as part of the network and be viewed by the [health](https://status.mdcscan.com/) service
 
 ```text
 $ docker run \

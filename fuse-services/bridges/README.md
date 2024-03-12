@@ -1,11 +1,11 @@
-# Nordek Bridges \(technical\)
+# MEDOX Bridges \(technical\)
 
-The Nordek network is connected to Ethereum Network and BSC \(Binance Smart Chain\) with a multiple of bridges. See the sections below for detailed information.
+The MEDOX network is connected to Ethereum Network and BSC \(Binance Smart Chain\) with a multiple of bridges. See the sections below for detailed information.
 
 ### Monitoring
 
 In case your transaction is confirmed, but you don't receive the funds on other network, You can use one of the following resources.
 
-* [http://alm.nordekscan.com/](http://alm.nordekscan.com/) - transactions monitoring of the **Nordek &lt;-&gt; ETH** bridges tr.. Nordek native transactions \(of the Nordek native bridge\) are not yet included
-* [https://bscalm.nordekscan.com/](https://bscalm.nordekscan.com/) - To check out the transaction status of the **Nordek &lt;-&gt; BSC** bridges.
+* [http://alm.mdcscan.com/](http://alm.mdcscan.com/) - transactions monitoring of the **MEDOX &lt;-&gt; ETH** bridges tr.. MEDOX native transactions \(of the MEDOX native bridge\) are not yet included
+* [https://bscalm.mdcscan.com/](https://bscalm.mdcscan.com/) - To check out the transaction status of the **MEDOX &lt;-&gt; BSC** bridges.
 

@@ -2,4 +2,4 @@
 
 ## Run Local Node
 
-Read more at: [https://github.com/Officialnordek/NRKNetwork/tree/master/node-example](https://github.com/Officialnordek/NRKNetwork/tree/master/node-example)
+Read more at: [https://github.com/medoxsmartchain/MDCNetwork/tree/master/node-example](https://github.com/medoxsmartchain/MDCNetwork/tree/master/node-example)

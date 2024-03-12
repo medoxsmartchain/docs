@@ -1,6 +1,6 @@
-# Bridge NRK/TL20 tokens
+# Bridge MDC/TL20 tokens
 
-**Transferring NRK from ETH mainnet to Fusenet.**
+**Transferring MDC from ETH mainnet to Fusenet.**
 
 **Step 1:**
 
@@ -14,29 +14,29 @@ Use the **“Connect to a wallet”** on the right hand top corner to connect yo
 
 **Step 2:**
 
-Click on **“Bridge”**, Select **“NRK”** from dropdown and enter the amount of NRK you want to transfer from ETH mainnet to Fusenet. Click on **“Approve NRK”** and approve the transaction on Metamask.
+Click on **“Bridge”**, Select **“MDC”** from dropdown and enter the amount of MDC you want to transfer from ETH mainnet to Fusenet. Click on **“Approve MDC”** and approve the transaction on Metamask.
 
 ![](../.gitbook/assets/2%20%289%29.png)
 
-Once the transaction is confirmed on chain, the **“Transfer”** can be clicked and transaction has to be approved. Once this second transaction is confirmed onchain the NRK balance in the same address on Nordek network will have the updated balance of NRK which can be checked through [https://nordekscan.com/](https://nordekscan.com/) 
+Once the transaction is confirmed on chain, the **“Transfer”** can be clicked and transaction has to be approved. Once this second transaction is confirmed onchain the MDC balance in the same address on MEDOX network will have the updated balance of MDC which can be checked through [https://mdcscan.com/](https://mdcscan.com/) 
 
 ![](../.gitbook/assets/3%20%288%29.png)
 
-**Transferring NRK from Fusenet to ETH mainnet.**
+**Transferring MDC from Fusenet to ETH mainnet.**
 
-Make sure that your wallet is running on Nordek RPC.
+Make sure that your wallet is running on MEDOX RPC.
 
 **Step 1:** Navigate to [www.fuseswap.com ](https://fuseswap.com/). The interface will look like as shown below
 
 ![](../.gitbook/assets/4%20%289%29.png)
 
-Use the **“Connect to a wallet”** on the right hand top corner to connect your wallet with Fuseswap. Once you connect you should be able to see your wallet address and see the network you are connected to \(In this case Nordek network\).
+Use the **“Connect to a wallet”** on the right hand top corner to connect your wallet with Fuseswap. Once you connect you should be able to see your wallet address and see the network you are connected to \(In this case MEDOX network\).
 
 ![](../.gitbook/assets/5%20%286%29.png)
 
 **Step 2:**
 
-Click on **“Bridge”**, Select **"NRK"** from the dropdown and enter the amount of NRK you want to transfer from Fusenet to ETH mainnet. Click on **“Transfer”** and approve the transaction on Metamask.
+Click on **“Bridge”**, Select **"MDC"** from the dropdown and enter the amount of MDC you want to transfer from Fusenet to ETH mainnet. Click on **“Transfer”** and approve the transaction on Metamask.
 
 ![](../.gitbook/assets/6%20%287%29.png)
 

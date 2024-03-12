@@ -1,10 +1,10 @@
 # Vote
 
-Nordek chain functionality can be change by voting on the contracts implementations. New implementations can be deployed, and opened to vote by validators for others to decide on whether to accept/reject the changes.
+MEDOX chain functionality can be change by voting on the contracts implementations. New implementations can be deployed, and opened to vote by validators for others to decide on whether to accept/reject the changes.
 
 ## Open a new ballot
 
-In order to open a new vote, a validator needs to call the \`newBallot\` function on the [voting contract](https://nordekscan.com/address/0xC59D39E832316504219B7236Ea03919B9dF96FDD) with the following params:
+In order to open a new vote, a validator needs to call the \`newBallot\` function on the [voting contract](https://mdcscan.com/address/0xC59D39E832316504219B7236Ea03919B9dF96FDD) with the following params:
 
 * startAfterNumberOfCycles - number of cycles \(minimum 1\) after which the ballot is open for voting
 * cyclesDuration - number of cycles \(minimum 2\) for the ballot to remain open for voting
@@ -40,7 +40,7 @@ Voting is done by calling the \`vote\` function, which receives two params:
 
 ![vote](../../.gitbook/assets/screen-shot-2019-09-04-at-15.08.19.png)
 
-Some other useful functions on the [voting contract](https://nordekscan.com/address/0xC59D39E832316504219B7236Ea03919B9dF96FDD) are:
+Some other useful functions on the [voting contract](https://mdcscan.com/address/0xC59D39E832316504219B7236Ea03919B9dF96FDD) are:
 
 ## getQuorumState
 

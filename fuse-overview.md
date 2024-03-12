@@ -1,14 +1,14 @@
-# Nordek overview
+# MEDOX overview
 
-## What is the Nordek network?
+## What is the MEDOX network?
 
-Nordek is a permissionless and border-less public ledger designed for easy integration of everyday payments. It's anchored to Ethereum using a bridge which allows any token to freely move between Ethereum and the Nordek. A Token is minted on Ethereum and then moved to the Nordek, where it gets access to a wide range of features and business plugins that brings it to life.
+MEDOX is a permissionless and border-less public ledger designed for easy integration of everyday payments. It's anchored to Ethereum using a bridge which allows any token to freely move between Ethereum and the MEDOX. A Token is minted on Ethereum and then moved to the MEDOX, where it gets access to a wide range of features and business plugins that brings it to life.
 
-User data in the Nordek network is stored by the users on their devices and they decide who to share it with using standard web3.0 interfaces. The users can join communities and community contracts define their data and governance policies. Those communities can be governed by individuals or organizations, everything is public and transparent on the blockchain.
+User data in the MEDOX network is stored by the users on their devices and they decide who to share it with using standard web3.0 interfaces. The users can join communities and community contracts define their data and governance policies. Those communities can be governed by individuals or organizations, everything is public and transparent on the blockchain.
 
-Nordek Studio allows users to easily launch and operate new communities, with a built-in contract store that enables easy launch of new features and integrated services - fiat on-ramps, business management plugins, community management functionality and much more.
+MEDOX Studio allows users to easily launch and operate new communities, with a built-in contract store that enables easy launch of new features and integrated services - fiat on-ramps, business management plugins, community management functionality and much more.
 
-## The Nordek software stack
+## The MEDOX software stack
 
 ![](.gitbook/assets/fuse-network-architecture2.jpg)
 
@@ -25,18 +25,18 @@ At the heart of the network is the open source stack suited for individuals and 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Nordek</td>
+      <td style="text-align:left">MEDOX</td>
       <td style="text-align:left">
-        <p>&#x26A1; Nordek mainnet launched.</p>
+        <p>&#x26A1; MEDOX mainnet launched.</p>
         <p>&#x26A1; Governance contracts and a bridge to the Ethereum mainnet.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Nordek Studio</td>
-      <td style="text-align:left">&#x26A1;Launched on Ethereum mainnet and Nordek.</td>
+      <td style="text-align:left">MEDOX Studio</td>
+      <td style="text-align:left">&#x26A1;Launched on Ethereum mainnet and MEDOX.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Nordek Wallet</td>
+      <td style="text-align:left">MEDOX Wallet</td>
       <td style="text-align:left">
         <p>&#x26A1;First Flutter Ethereum wallet launched to Github</p>
         <p>&#x26A1;Launched on Google play and Apple store free to download and customize.</p>

@@ -1,10 +1,10 @@
-# Learn about the Nordek Platform
+# Learn about the MEDOX Platform
 
-Nordek is a decentralized payments-focused platform powered underneath by the fast and low-cost Nordek blockchain.&#x20;
+MEDOX is a decentralized payments-focused platform powered underneath by the fast and low-cost MEDOX blockchain.&#x20;
 
 In this section, you will be able to learn more about:
 
 * the vision and strategy behind the platform and its main components
-* how the Nordek blockchain works, its native NRK token and its governance and development
-* how Nordek is connected to other major chains
+* how the MEDOX blockchain works, its native MDC token and its governance and development
+* how MEDOX is connected to other major chains
 

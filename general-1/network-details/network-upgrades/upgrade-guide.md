@@ -16,7 +16,7 @@ The update will pull the latest database from our latest snapshot so please ensu
 
 ```
 cd <location of quickstart.sh>
-wget -O quickstart.sh https://raw.githubusercontent.com/PrimalDev/Nordek/master/scripts/quickstart.sh
+wget -O quickstart.sh https://raw.githubusercontent.com/PrimalDev/MEDOX/master/scripts/quickstart.sh
 ```
 
 ### Step 2 - Run quickstart and agree to upgrade
@@ -29,8 +29,8 @@ Wait for script to complete
 
 ### Step 3 - Verify Upgrade
 
-Check your node on our [health site ](https://status.nordekscan.com)It should be online and the client should be "OpenEthereum//v3.2.6-stable", ensure your node is connected to peers and syncing/ in sync.
+Check your node on our [health site ](https://status.mdcscan.com)It should be online and the client should be "OpenEthereum//v3.2.6-stable", ensure your node is connected to peers and syncing/ in sync.
 
 ### &#x20;<a href="#step-3-verify-upgrade" id="step-3-verify-upgrade"></a>
 
-Check your node on our [health site ](https://status.nordekscan.com/)It should be online and the client should be "OpenEthereum//v3.2.6-stable", ensure your node is connected to peers and syncing/ in sync.
+Check your node on our [health site ](https://status.mdcscan.com/)It should be online and the client should be "OpenEthereum//v3.2.6-stable", ensure your node is connected to peers and syncing/ in sync.

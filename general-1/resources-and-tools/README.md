@@ -2,9 +2,9 @@
 
 ### DApp Management & Development Tools
 
-[The Graph](https://thegraph.com) supports Nordek data indexing, quierying and display.
+[The Graph](https://thegraph.com) supports MEDOX data indexing, quierying and display.
 
-[Remix IDE](https://remix-project.org/): It's easy to deploy on Nordek with Remix, simply choose injected web3 and add the Nordek custom RPC to your Metamask.
+[Remix IDE](https://remix-project.org/): It's easy to deploy on MEDOX with Remix, simply choose injected web3 and add the MEDOX custom RPC to your Metamask.
 
 [JustSmartContracts](https://justsmartcontracts.dev/): another smart contract deployment tool for EVM chains.&#x20;
 

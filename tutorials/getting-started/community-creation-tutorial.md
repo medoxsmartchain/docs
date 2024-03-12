@@ -1,21 +1,21 @@
 ---
 description: >-
   Introducing a step-by-step guide covering the community creation process on
-  the Nordek Studio. The guide is aimed at teaching you how to create a new
+  the MEDOX Studio. The guide is aimed at teaching you how to create a new
   community after setting up Metamask or Torus and is
 ---
 
 # Community creation tutorial
 
-Make sure you are connected to the Nordek network on your Metamask wallet before creating the community. Learn how to add Nordek network to Metamask using [this](https://docs.nordekscan.com/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask) tutorial.
+Make sure you are connected to the MEDOX network on your Metamask wallet before creating the community. Learn how to add MEDOX network to Metamask using [this](https://docs.mdcscan.com/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask) tutorial.
 
-Navigate to https://studio.nordekscan.com/ and click on **“Login”** at the right hand top corner as shown below. Use your Gmail account to Sign in.
+Navigate to https://studio.mdcscan.com/ and click on **“Login”** at the right hand top corner as shown below. Use your Gmail account to Sign in.
 
 ![](../../.gitbook/assets/0%20%289%29.png)
 
 Once you **“Sign in”** to Studio using your Gmail account either you can use your Gmail account to create a wallet or connect you existing wallet using Metamask.
 
-You can also view both your ETH balance and NRK balance by clicking on “Nordek network”
+You can also view both your ETH balance and MDC balance by clicking on “MEDOX network”
 
 ![](../../.gitbook/assets/1%20%2812%29.png)
 
@@ -25,7 +25,7 @@ Click on **“Launch an economy”** and in the next page you can see the follow
 
 **Description** : A brief explanation about the community you are going to create.
 
-Select whether you want to **“Create a new token”** or **“Use an existing token on Nordek”**
+Select whether you want to **“Create a new token”** or **“Use an existing token on MEDOX”**
 
 ![](../../.gitbook/assets/2%20%2812%29.png)
 
@@ -47,7 +47,7 @@ Click on **“Next”** and you will see a final page to review before creating 
 
 ![](../../.gitbook/assets/4%20%2811%29.png)
 
-Clicking on **“Issue”** will ask for a sign from your wallet. Please confirm the transaction from your wallet which is signed in to Nordek network.
+Clicking on **“Issue”** will ask for a sign from your wallet. Please confirm the transaction from your wallet which is signed in to MEDOX network.
 
 After a few seconds of confirmation of the transaction you token is minted and the community is successfully created which can be viewed in the homepage.
 
@@ -87,7 +87,7 @@ Now you can enable the different kind of Bonus which will be given to community 
 
 Similarly you can add different plug-ins through plug-in store. We are always in the process of adding new Plug-ins, if you have any requirement for a specific plug-in please let us know through our social media channels.
 
-It's been a long road, but you are finally on the last step! To be able to make easy mobile transactions using your community, **download the Nordek wallet app** on the [App Store](https://apps.apple.com/il/app/fuse-wallet/id1491783654) or [Google Play](https://play.google.com/store/apps/details?id=io.fuse.fusecash).
+It's been a long road, but you are finally on the last step! To be able to make easy mobile transactions using your community, **download the MEDOX wallet app** on the [App Store](https://apps.apple.com/il/app/fuse-wallet/id1491783654) or [Google Play](https://play.google.com/store/apps/details?id=io.fuse.fusecash).
 
 Sign up using your **phone number** and **name** to create a wallet. On the app, click the top-left option bar and click '**Switch community**'. Then, press '**Scan QR to switch**' and navigate your phone camera to QR code that you can find in the '**White label wallet**' tab in the studio. Share this QR code with your community members so they can join too!
 

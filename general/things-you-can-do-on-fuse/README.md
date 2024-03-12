@@ -1,2 +1,2 @@
-# Things you can do on Nordek
+# Things you can do on MEDOX
 

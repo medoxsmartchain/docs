@@ -2,11 +2,11 @@
 
 
 
-The following information will help you discover and connect to the Nordek blockchain:  &#x20;
+The following information will help you discover and connect to the MEDOX blockchain:  &#x20;
 
-* Network name: **NRK**
+* Network name: **MDC**
 * ChanId: **81041**
 * Gas price: **0 gwei**
 * RPC
-  * official RPC: [https://mainnet-rpc.nordekscan.com/](https://mainnet-rpc.nordekscan.com/)
-* Explorer: [http://nordekscan.com/](http://nordekscan.com/)
+  * official RPC: [https://rpc.mdcscan.com/](https://rpc.mdcscan.com/)
+* Explorer: [http://mdcscan.com/](http://mdcscan.com/)

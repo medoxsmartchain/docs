@@ -1,6 +1,6 @@
-# Nordek Overview: vision, strategy and platform components
+# MEDOX Overview: vision, strategy and platform components
 
-Nordek is a decentralized blockchain-powered platform and technology stack whose goal is to enable genuine mass adoption of crypto payments and decentralized finance (DeFi).&#x20;
+MEDOX is a decentralized blockchain-powered platform and technology stack whose goal is to enable genuine mass adoption of crypto payments and decentralized finance (DeFi).&#x20;
 
 The project was launched in 2019 by a team formerly involved in building the Colu project aimed at bringing local currencies to the blockchain.&#x20;
 
@@ -28,10 +28,10 @@ This is achieved by providing clients with **convenient, mobile-first tools for 
 
 ### Platform Components
 
-The Nordek platform has three main components:&#x20;
+The MEDOX platform has three main components:&#x20;
 
-1\) **The Nordek blockchain**. The EVM-compatible public blockchain is the decentralized, permissionless backbone of the Nordek platform and ecosystem.&#x20;
+1\) **The MEDOX blockchain**. The EVM-compatible public blockchain is the decentralized, permissionless backbone of the MEDOX platform and ecosystem.&#x20;
 
-2\) **The mobile-centric open-source technology stack** designed to help businesses and developers plug crypto payments into real-world use cases. This toolkit has subsumed into the new [Nordek Charge](https://chargeweb3.com/) API platform.&#x20;
+2\) **The mobile-centric open-source technology stack** designed to help businesses and developers plug crypto payments into real-world use cases. This toolkit has subsumed into the new [MEDOX Charge](https://chargeweb3.com/) API platform.&#x20;
 
 3\) **A set of reference decentralized finance (DeFi) products and tools**. The goal of these is to pave the way for the initial adoption of the platform. \
